@@ -14,8 +14,8 @@ const ptSans = PT_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Feathered Acres",
-    template: "%s | Feathered Acres",
+    default: "Mukunda Green Acres",
+    template: "%s | Mukunda Green Acres",
   },
   description: "A modern poultry farm providing fresh, high-quality products.",
   icons: {

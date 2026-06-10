@@ -26,7 +26,7 @@ export function FarmMap() {
           disableDefaultUI={true}
           mapId="feathered_acres_map"
         >
-          <Marker position={farmLocation} title="Feathered Acres" />
+          <Marker position={farmLocation} title="Mukunda Green Acres" />
         </Map>
       </APIProvider>
     </div>

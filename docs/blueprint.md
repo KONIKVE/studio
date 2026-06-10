@@ -1,4 +1,4 @@
-# **App Name**: Feathered Acres
+# **App Name**: Mukunda Green Acres
 
 ## Core Features:
 

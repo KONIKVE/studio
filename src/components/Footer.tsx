@@ -8,10 +8,10 @@ export function Footer() {
         <div className="flex flex-col items-center justify-between gap-6 md:flex-row">
           <div className="flex items-center gap-2">
             <Feather className="h-6 w-6 text-primary" />
-            <span className="font-headline text-lg font-bold">Feathered Acres</span>
+            <span className="font-headline text-lg font-bold">Mukunda Green Acres</span>
           </div>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Feathered Acres. All rights reserved.
+            © {new Date().getFullYear()} Mukunda Green Acres. All rights reserved.
           </p>
           <nav className="flex gap-4">
             <Link href="/products" className="text-sm text-muted-foreground hover:text-primary">Products</Link>

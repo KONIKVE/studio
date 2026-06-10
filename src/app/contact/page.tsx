@@ -6,7 +6,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 export const metadata: Metadata = {
   title: "Contact Us",
-  description: "Get in touch with Feathered Acres. We'd love to hear from you!",
+  description: "Get in touch with Mukunda Green Acres. We'd love to hear from you!",
 };
 
 export default function ContactPage() {

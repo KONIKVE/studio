@@ -6,7 +6,7 @@ import { Leaf, HeartHandshake, Award } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "About Us",
-  description: "Learn about the history, values, and sustainable practices of Feathered Acres.",
+  description: "Learn about the history, values, and sustainable practices of Mukunda Green Acres.",
 };
 
 const values = [
@@ -31,7 +31,7 @@ const galleryImages = [
     { src: "https://placehold.co/800x600.png", alt: "Hens roaming freely in a green pasture", hint: "chickens pasture" },
     { src: "https://placehold.co/800x600.png", alt: "A farmer collecting fresh eggs", hint: "collecting eggs" },
     { src: "https://placehold.co/800x600.png", alt: "A close-up of a carton of colorful eggs", hint: "eggs carton" },
-    { src: "https://placehold.co/800x600.png", alt: "The red barn of Feathered Acres at sunset", hint: "farm barn" },
+    { src: "https://placehold.co/800x600.png", alt: "The red barn of Mukunda Green Acres at sunset", hint: "farm barn" },
     { src: "https://placehold.co/800x600.png", alt: "A panoramic view of the farm", hint: "farm landscape" },
 ]
 
@@ -39,7 +39,7 @@ export default function AboutPage() {
   return (
     <div className="container mx-auto max-w-7xl px-4 py-12 md:py-20">
       <div className="text-center mb-12">
-        <h1 className="font-headline text-4xl font-bold tracking-tight">About Feathered Acres</h1>
+        <h1 className="font-headline text-4xl font-bold tracking-tight">About Mukunda Green Acres</h1>
         <p className="mt-4 max-w-3xl mx-auto text-lg text-muted-foreground">
           More than just a farm, we are a family dedicated to bringing you the freshest, most ethically-raised poultry products.
         </p>
@@ -49,7 +49,7 @@ export default function AboutPage() {
         <div className="order-2 md:order-1">
           <h2 className="font-headline text-3xl font-bold mb-4">Our Story</h2>
           <p className="text-muted-foreground mb-4">
-            Feathered Acres began with a simple idea: that food should be real, wholesome, and raised with respect for nature. Founded in 2010 by the Smith family, our farm started with a small flock of hens and a big dream. We wanted to create a place where animals could live happy, healthy lives and where our community could find food they could trust.
+            Mukunda Green Acres began with a simple idea: that food should be real, wholesome, and raised with respect for nature. Founded in 2010 by the Smith family, our farm started with a small flock of hens and a big dream. We wanted to create a place where animals could live happy, healthy lives and where our community could find food they could trust.
           </p>
           <p className="text-muted-foreground">
             Over the years, our farm has grown, but our core principles remain unchanged. We've embraced sustainable practices, expanded our range of products, and become a beloved local source for fresh eggs and poultry. Every day, we're grateful for the opportunity to be stewards of this land and to share the fruits of our labor with you.
@@ -58,7 +58,7 @@ export default function AboutPage() {
         <div className="order-1 md:order-2">
             <Image 
                 src="https://placehold.co/600x400.png"
-                alt="The founding family of Feathered Acres smiling in a field"
+                alt="The founding family of Mukunda Green Acres smiling in a field"
                 width={600}
                 height={400}
                 className="rounded-lg shadow-xl"

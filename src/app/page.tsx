@@ -49,14 +49,14 @@ export default function Home() {
       <section className="relative h-[60vh] min-h-[400px] w-full">
         <Image
           src="https://placehold.co/1600x900.png"
-          alt="A beautiful sunrise over the fields of Feathered Acres farm"
+          alt="A beautiful sunrise over the fields of Mukunda Green Acres farm"
           layout="fill"
           objectFit="cover"
           className="brightness-50"
           data-ai-hint="farm sunrise"
         />
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white p-4">
-          <h1 className="font-headline text-4xl md:text-6xl font-bold tracking-tight">Feathered Acres</h1>
+          <h1 className="font-headline text-4xl md:text-6xl font-bold tracking-tight">Mukunda Green Acres</h1>
           <p className="mt-4 max-w-2xl text-lg md:text-xl">
             Naturally Raised, Exceptionally Fresh. The finest poultry products, straight from our farm to your family.
           </p>
